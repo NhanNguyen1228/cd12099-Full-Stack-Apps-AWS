@@ -1,0 +1,1 @@
+http://udacity-project-2-dev22.us-east-1.elasticbeanstalk.com/filteredimage/?image_url=https://images.autotrader.com/resize/500x321/dealership/d6df9573-e3b4-4dba-bd60-aaf50704ead7.jpg
